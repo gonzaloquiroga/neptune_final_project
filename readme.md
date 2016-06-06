@@ -24,11 +24,15 @@ OK, here we go.
 
 ## Introduction and Goals
 
-The goal of my project is to answer the question, What is...?
+The goal of my project is to answer the question:
+Find all GPCRs of each family in Clytia (from an excell table) and get a good dataset of GPCRs to do a phylogeny of a specific
+Clytia Neuropeptide GPCR. 
 
 The methods I will use to do this are...
+TextWrangling, concatenate, python scripts to authomatise what I would do with regular expressions.
 
 The data I will use are (my own data/ data publicly available at YYY/ simulations)
+My own data and public data (close-related sequences).
 
 ## Methods
 
