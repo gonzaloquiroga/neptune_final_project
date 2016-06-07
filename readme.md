@@ -20,16 +20,34 @@ Some guidelines and tips:
 
 OK, here we go.
 
-# Gonzalo's project - Hydrozoa Neuropeptide GPCRs
+# Gonzalo's project - Clytia hemisphaerica GPCR complement and classification. Phylogeny of a cnidarian Neuropeptide Receptor.
 
 ## Introduction and Goals
 
 The goal of my project is to answer the question:
-Find all GPCRs of each family in Clytia (from an excell table) and get a good dataset of GPCRs to do a phylogeny of a specific
-Clytia Neuropeptide GPCR. 
+
+-Find all GPCRs of each class in Clytia (from an existing excell table and Transcriptome FASTA file) and get a good dataset of GPCRs to do a phylogeny of a specific Clytia Neuropeptide GPCR. 
 
 The methods I will use to do this are...
-TextWrangling, concatenate, python scripts to authomatise what I would do with regular expressions.
+
+-TextWrangling, concatenate, python scripts to authomatise what I would do with regular expressions.
+
+1) Use commands like "grep" and ">" to create new files with the specific PFAM information of GPCR family for each of the contigs (Class A, B, C and other).
+
+2) Use a Python script to create FASTA files with the contig name and protein sequence for each of the main classes of GPCRs. I will use the PFAM information files and the Clytia transcriptome for this. 
+
+3) Run cd-hit to get rid of redundancy over 90% similarity for each of the FASTA files of each GPCR class. 
+
+4) Count the number of GPCRs of each class in Clytia. 
+
+Optional:
+
+- Concatenate all the files to a single big file with all Clytia GPCRs.
+- With a Python script retrieve all the rows from an excell table with mapping information in different Clytia tissues and life stages, using the contig names as bait.
+- Do a heat map to check visually if a specific class is more expressed than another in a specific tissue/life stage.
+
+
+
 
 The data I will use are (my own data/ data publicly available at YYY/ simulations)
 My own data and public data (close-related sequences).
