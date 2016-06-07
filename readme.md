@@ -26,13 +26,18 @@ OK, here we go.
 
 The goal of my project is to answer the question:
 
--Find all GPCRs of each class in Clytia (from an existing excell table and Transcriptome FASTA file) and get a good dataset of GPCRs to do a phylogeny of a specific Clytia Neuropeptide GPCR. 
+Find all GPCRs of each class in Clytia (from an existing excell table and Transcriptome FASTA file) and get a good dataset of GPCRs to do a phylogeny of a specific Clytia Neuropeptide GPCR. 
+
+"I should not make this data available in public repositories yet"
+
+
 
 The methods I will use to do this are...
 
--TextWrangling, concatenate, python scripts to authomatise what I would do with regular expressions.
+-TextWrangling, concatenate, python scripts to authomatise what I would do with regular expressions...
 
-1) Use commands like "grep" and ">" to create new files with the specific PFAM information of GPCR family for each of the contigs (Class A, B, C and other).
+
+1) Use commands like "grep" and ">" to create new files with the specific PFAM information of GPCR family for each of the contigs (Class A, B, C and other). "Max recommended me to also do this in Python"
 
 2) Use a Python script to create FASTA files with the contig name and protein sequence for each of the main classes of GPCRs. I will use the PFAM information files and the Clytia transcriptome for this. 
 
@@ -46,11 +51,19 @@ Optional:
 - With a Python script retrieve all the rows from an excell table with mapping information in different Clytia tissues and life stages, using the contig names as bait.
 - Do a heat map to check visually if a specific class is more expressed than another in a specific tissue/life stage.
 
+5) Use my receptor of interest (JOMP Receptor) as a query to retrieve different similar neuropeptide GPCRs in Cnidaria, using different datasets.
+
+6) Do a cluster map of al Clytia class A GPCRs, retrieved cnidarian good hits of JOMP receptor, and other known Bilaterian neuropeptide GPCRs.
+
+7) With the best, closest-related sequences, build a phylogenetic tree (ML). 
 
 
+The data I will use are 
+- My own data
+- Data publicly available at Compagen
+- Recently assembled unpublished transcriptomes from hydrozoans (Dunn and Léclere)
 
-The data I will use are (my own data/ data publicly available at YYY/ simulations)
-My own data and public data (close-related sequences).
+
 
 ## Methods
 
