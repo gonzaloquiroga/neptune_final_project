@@ -12,7 +12,7 @@ for Line in InFile:
 	#print Line
 	#Line = Line.strip()
 
-	if 'rhodopsin' in Line:
+	if 'rhodopsin' in Line or 'Rhodopsin' in Line:
 		
 		Line = Line + " Class A"
 		print (Line)

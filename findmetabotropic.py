@@ -12,7 +12,7 @@ for Line in InFile:
 	#print Line
 	#Line = Line.strip()
 
-	if 'Metabotropic' in Line:
+	if 'Metabotropic' in Line or 'metabotropic' in Line:
 		
 		Line = Line + " Class C"
 		print (Line)

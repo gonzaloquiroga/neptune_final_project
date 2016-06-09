@@ -12,7 +12,7 @@ for Line in InFile:
 	#print Line
 	#Line = Line.strip()
 
-	if 'Secretin' in Line:
+	if 'Secretin' in Line or 'secretin' in Line:
 		
 		Line = Line + " Class B"
 		print (Line)
