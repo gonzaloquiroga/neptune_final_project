@@ -12,7 +12,7 @@ for Line in InFile:
 	#print Line
 	#Line = Line.strip()
 
-	if 'Metabotropic' not in Line and 'Rhodopsin' not in Line and 'rhodopsin' not in Line and 'Metabotropic' not in Line:
+	if 'Metabotropic' not in Line and 'Rhodopsin' not in Line and 'rhodopsin' not in Line and 'Secretin' not in Line:
 		
 		Line = Line + " Class Other"
 		print (Line)
