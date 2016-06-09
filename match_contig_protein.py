@@ -10,6 +10,7 @@ InFile2 = open (InFileName2, 'r' )
 OutFileName_ClassA = "ClassA_fasta.fas"
 OutFileA = open (OutFileName_ClassA, 'a')
 
+'''
 def Contig (ContigString1 , ContigString2):	
 
 	StringClassA = '(>\w+)(\t.*\n.+)'
@@ -22,18 +23,42 @@ def Contig (ContigString1 , ContigString2):
 	contig_name761 = Result761.group (1)
 	protein_seq = Result761.group (2)
 
+'''
+
+def Header_set (file):
+	H_set = set()
+
+	StringClassA = '(>\w+)(\t.*)'
+
+	for Line in file:
+
+		ResultA	= re.search( StringClassA, Line )
 
 
+		contig_nameA = ResultA.group (1)
 
-for Line in InFile2:
-	Line = Line.strip()
+		H_set.add (contig_nameA)
 
-	if 
+	return H_set
+
+H_set = Header_set(InFile)
+
+#print (H_set)
+
+String761 = '(>\w+)\n(.+)'
+Result761 = re.findall( String761, InFile2.read() )
+
+for result in Result761:
+
+	contig_name761 = result [0]
+	protein_seq = result [1]
+
+
+	if contig_name761 in H_set:
 		
-		Line = Line + "Class A \n"
-		print (Line)
+		print (contig_name761 + '\n' + protein_seq)
 		
-		OutFileA.write (Line)
+		OutFileA.write (contig_name761 + '\n' + protein_seq + '\n')
 
 	
 
