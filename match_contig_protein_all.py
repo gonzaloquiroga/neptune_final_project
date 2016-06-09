@@ -2,14 +2,27 @@
 import re
 
 InFileName = 'ClassA2.txt'
-InFileName2 = '761_Clytia_GPCR_seqs.fas'
+InFileName2 = 'ClassB2.txt'
+InFileName3 = 'ClassC2.txt'
+InFileName4 = 'ClassOther2.txt'
+
+InFileName5 = '761_Clytia_GPCR_seqs.fas'
 
 InFile = open( InFileName, 'r' )
 InFile2 = open (InFileName2, 'r' )
+InFile3 = open (InFileName3, 'r' )
+InFile4 = open (InFileName4, 'r' )
+
+InFile5 = open (InFileName5, 'r' )
 
 OutFileName_ClassA = "ClassA_fasta.fas"
 OutFileA = open (OutFileName_ClassA, 'a')
-
+OutFileName_ClassB = "ClassB_fasta.fas"
+OutFileB = open (OutFileName_ClassB, 'a')
+OutFileName_ClassC = "ClassC_fasta.fas"
+OutFileC = open (OutFileName_ClassC, 'a')
+OutFileName_ClassO = "ClassOther_fasta.fas"
+OutFileO = open (OutFileName_ClassO, 'a')
 
 
 def Header_set (file):
@@ -31,20 +44,22 @@ H_set = Header_set(InFile)
 
 #print (H_set)
 
-String761 = '(>\w+)\n(.+)'
-Result761 = re.findall( String761, InFile2.read() )
+def fasta (file2, searchset):
 
-for result in Result761:
+	String761 = '(>\w+)\n(.+)'
+	Result761 = re.findall( String761, InFile2.read() )
 
-	contig_name761 = result [0]
-	protein_seq = result [1]
+	for result in Result761:
+
+		contig_name761 = result [0]
+		protein_seq = result [1]
 
 
-	if contig_name761 in H_set:
+		if contig_name761 in searchset:
 		
-		print (contig_name761 + '\n' + protein_seq)
+			print (contig_name761 + '\n' + protein_seq)
 		
-		OutFileA.write (contig_name761 + '\n' + protein_seq + '\n')
+			OutFileA.write (contig_name761 + '\n' + protein_seq + '\n')
 
 	
 

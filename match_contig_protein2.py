@@ -1,13 +1,13 @@
 #!/usr/bin/env python
 import re
 
-InFileName = 'ClassA2.txt'
+InFileName = 'ClassB2.txt'
 InFileName2 = '761_Clytia_GPCR_seqs.fas'
 
 InFile = open( InFileName, 'r' )
 InFile2 = open (InFileName2, 'r' )
 
-OutFileName_ClassA = "ClassA_fasta.fas"
+OutFileName_ClassA = "ClassB_fasta.fas"
 OutFileA = open (OutFileName_ClassA, 'a')
 
 
