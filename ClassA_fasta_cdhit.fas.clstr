@@ -1,0 +1,880 @@
+>Cluster 0
+0	1066aa, >TCONS_00019115... *
+>Cluster 1
+0	828aa, >TCONS_00060851... *
+>Cluster 2
+0	787aa, >TCONS_00000834... *
+>Cluster 3
+0	778aa, >TCONS_00041973... *
+1	778aa, >TCONS_00041974... at 100.00%
+>Cluster 4
+0	602aa, >TCONS_00002801... at 100.00%
+1	757aa, >TCONS_00002734... *
+>Cluster 5
+0	730aa, >TCONS_00000833... *
+>Cluster 6
+0	658aa, >TCONS_00013032... *
+>Cluster 7
+0	171aa, >TCONS_00013048... at 98.83%
+1	308aa, >TCONS_00013069... at 100.00%
+2	165aa, >TCONS_00013068... at 98.79%
+3	650aa, >TCONS_00013043... *
+>Cluster 8
+0	639aa, >TCONS_00000155... *
+>Cluster 9
+0	638aa, >TCONS_00010750... *
+>Cluster 10
+0	583aa, >TCONS_00067887... at 99.66%
+1	600aa, >TCONS_00067886... *
+>Cluster 11
+0	596aa, >TCONS_00048431... *
+1	596aa, >TCONS_00048386... at 100.00%
+>Cluster 12
+0	588aa, >TCONS_00036492... *
+>Cluster 13
+0	556aa, >TCONS_00012892... *
+1	406aa, >TCONS_00012905... at 100.00%
+>Cluster 14
+0	551aa, >TCONS_00037296... *
+>Cluster 15
+0	540aa, >TCONS_00074751... at 100.00%
+1	191aa, >TCONS_00074765... at 100.00%
+2	542aa, >TCONS_00074752... *
+>Cluster 16
+0	521aa, >TCONS_00023127... *
+>Cluster 17
+0	520aa, >TCONS_00007917... *
+1	520aa, >TCONS_00007918... at 100.00%
+>Cluster 18
+0	411aa, >TCONS_00067265... at 100.00%
+1	520aa, >TCONS_00067212... *
+>Cluster 19
+0	520aa, >TCONS_00020550... *
+1	520aa, >TCONS_00020558... at 100.00%
+>Cluster 20
+0	393aa, >TCONS_00065323... at 100.00%
+1	520aa, >TCONS_00065310... *
+>Cluster 21
+0	519aa, >TCONS_00036301... *
+>Cluster 22
+0	513aa, >TCONS_00053443... at 100.00%
+1	516aa, >TCONS_00053514... *
+>Cluster 23
+0	502aa, >TCONS_00052187... *
+>Cluster 24
+0	502aa, >TCONS_00004675... *
+>Cluster 25
+0	500aa, >TCONS_00055128... *
+1	298aa, >TCONS_00055161... at 100.00%
+>Cluster 26
+0	499aa, >TCONS_00064395... *
+>Cluster 27
+0	248aa, >TCONS_00057376... at 100.00%
+1	378aa, >TCONS_00057375... at 100.00%
+2	497aa, >TCONS_00057322... *
+>Cluster 28
+0	497aa, >TCONS_00085954... *
+>Cluster 29
+0	490aa, >TCONS_00069834... *
+1	433aa, >TCONS_00069900... at 100.00%
+>Cluster 30
+0	489aa, >TCONS_00054346... *
+>Cluster 31
+0	488aa, >TCONS_00067238... *
+>Cluster 32
+0	306aa, >TCONS_00023679... at 100.00%
+1	488aa, >TCONS_00023677... *
+>Cluster 33
+0	487aa, >TCONS_00004740... *
+>Cluster 34
+0	481aa, >TCONS_00056239... *
+>Cluster 35
+0	474aa, >TCONS_00068124... *
+>Cluster 36
+0	472aa, >TCONS_00007987... *
+>Cluster 37
+0	468aa, >TCONS_00016696... *
+>Cluster 38
+0	467aa, >TCONS_00020383... *
+1	151aa, >TCONS_00020387... at 100.00%
+>Cluster 39
+0	466aa, >TCONS_00023673... *
+>Cluster 40
+0	464aa, >TCONS_00019134... *
+>Cluster 41
+0	463aa, >TCONS_00004641... *
+>Cluster 42
+0	462aa, >TCONS_00042213... *
+>Cluster 43
+0	457aa, >TCONS_00003408... *
+>Cluster 44
+0	371aa, >TCONS_00054135... at 100.00%
+1	455aa, >TCONS_00054099... *
+>Cluster 45
+0	453aa, >TCONS_00010560... *
+>Cluster 46
+0	434aa, >TCONS_00008888... at 100.00%
+1	453aa, >TCONS_00008852... *
+>Cluster 47
+0	452aa, >TCONS_00019052... *
+>Cluster 48
+0	438aa, >TCONS_00075402... at 100.00%
+1	448aa, >TCONS_00075377... *
+>Cluster 49
+0	446aa, >TCONS_00010860... *
+>Cluster 50
+0	445aa, >TCONS_00068121... *
+1	445aa, >TCONS_00068162... at 100.00%
+>Cluster 51
+0	442aa, >TCONS_00035289... *
+>Cluster 52
+0	440aa, >TCONS_00053243... *
+>Cluster 53
+0	414aa, >TCONS_00023678... at 100.00%
+1	438aa, >TCONS_00023676... *
+>Cluster 54
+0	437aa, >TCONS_00031084... *
+>Cluster 55
+0	437aa, >TCONS_00003080... *
+>Cluster 56
+0	434aa, >TCONS_00057493... *
+1	381aa, >TCONS_00057525... at 100.00%
+>Cluster 57
+0	434aa, >TCONS_00011282... *
+>Cluster 58
+0	433aa, >TCONS_00000427... *
+1	433aa, >TCONS_00000375... at 100.00%
+>Cluster 59
+0	429aa, >TCONS_00042345... *
+>Cluster 60
+0	425aa, >TCONS_00036457... *
+>Cluster 61
+0	424aa, >TCONS_00010647... *
+>Cluster 62
+0	421aa, >TCONS_00065422... *
+>Cluster 63
+0	419aa, >TCONS_00077746... *
+>Cluster 64
+0	417aa, >TCONS_00040305... *
+>Cluster 65
+0	417aa, >TCONS_00059326... *
+>Cluster 66
+0	416aa, >TCONS_00004259... *
+>Cluster 67
+0	415aa, >TCONS_00036688... *
+>Cluster 68
+0	413aa, >TCONS_00063935... *
+1	220aa, >TCONS_00063946... at 100.00%
+2	284aa, >TCONS_00063948... at 100.00%
+>Cluster 69
+0	410aa, >TCONS_00037392... *
+>Cluster 70
+0	410aa, >TCONS_00027248... *
+>Cluster 71
+0	258aa, >TCONS_00002280... at 100.00%
+1	409aa, >TCONS_00002239... *
+2	372aa, >TCONS_00031542... at 98.66%
+>Cluster 72
+0	409aa, >TCONS_00051949... *
+>Cluster 73
+0	408aa, >TCONS_00051739... *
+>Cluster 74
+0	406aa, >TCONS_00053950... *
+1	406aa, >TCONS_00053951... at 100.00%
+>Cluster 75
+0	405aa, >TCONS_00074723... *
+>Cluster 76
+0	207aa, >TCONS_00060506... at 100.00%
+1	405aa, >TCONS_00060446... *
+>Cluster 77
+0	404aa, >TCONS_00040675... *
+>Cluster 78
+0	404aa, >TCONS_00027803... *
+1	404aa, >TCONS_00027800... at 100.00%
+>Cluster 79
+0	404aa, >TCONS_00072388... *
+>Cluster 80
+0	306aa, >TCONS_00058479... at 99.02%
+1	404aa, >TCONS_00058448... *
+2	404aa, >TCONS_00058449... at 100.00%
+>Cluster 81
+0	402aa, >TCONS_00073771... *
+>Cluster 82
+0	401aa, >TCONS_00000429... *
+>Cluster 83
+0	399aa, >TCONS_00046272... *
+>Cluster 84
+0	398aa, >TCONS_00072405... *
+1	323aa, >TCONS_00072520... at 100.00%
+>Cluster 85
+0	398aa, >TCONS_00075625... *
+>Cluster 86
+0	397aa, >TCONS_00047850... *
+>Cluster 87
+0	395aa, >TCONS_00008149... *
+1	395aa, >TCONS_00008150... at 100.00%
+>Cluster 88
+0	395aa, >TCONS_00012600... *
+>Cluster 89
+0	395aa, >TCONS_00040074... *
+>Cluster 90
+0	394aa, >TCONS_00045794... *
+1	393aa, >TCONS_00045793... at 97.46%
+>Cluster 91
+0	394aa, >TCONS_00073944... *
+>Cluster 92
+0	393aa, >TCONS_00051094... *
+>Cluster 93
+0	392aa, >TCONS_00011272... *
+>Cluster 94
+0	388aa, >TCONS_00037798... *
+>Cluster 95
+0	388aa, >TCONS_00007605... *
+>Cluster 96
+0	387aa, >TCONS_00042790... *
+1	316aa, >TCONS_00042789... at 99.68%
+>Cluster 97
+0	386aa, >TCONS_00009548... *
+1	386aa, >TCONS_00009505... at 100.00%
+>Cluster 98
+0	386aa, >TCONS_00014497... *
+>Cluster 99
+0	385aa, >TCONS_00050128... *
+>Cluster 100
+0	385aa, >TCONS_00039587... *
+>Cluster 101
+0	385aa, >TCONS_00014638... *
+>Cluster 102
+0	384aa, >TCONS_00063888... *
+1	384aa, >TCONS_00063894... at 100.00%
+>Cluster 103
+0	383aa, >TCONS_00011747... *
+1	175aa, >TCONS_00011769... at 100.00%
+>Cluster 104
+0	210aa, >TCONS_00025773... at 100.00%
+1	271aa, >TCONS_00025766... at 95.57%
+2	382aa, >TCONS_00025769... *
+3	335aa, >TCONS_00025772... at 98.21%
+4	319aa, >TCONS_00025768... at 97.49%
+>Cluster 105
+0	382aa, >TCONS_00034768... *
+>Cluster 106
+0	183aa, >TCONS_00009560... at 100.00%
+1	381aa, >TCONS_00009540... *
+>Cluster 107
+0	188aa, >TCONS_00043402... at 99.47%
+1	381aa, >TCONS_00029842... *
+>Cluster 108
+0	381aa, >TCONS_00014468... *
+>Cluster 109
+0	369aa, >TCONS_00006447... at 100.00%
+1	379aa, >TCONS_00006448... *
+>Cluster 110
+0	379aa, >TCONS_00073029... *
+>Cluster 111
+0	154aa, >TCONS_00012632... at 98.70%
+1	227aa, >TCONS_00012658... at 100.00%
+2	377aa, >TCONS_00012631... *
+>Cluster 112
+0	376aa, >TCONS_00010500... *
+>Cluster 113
+0	374aa, >TCONS_00036349... *
+1	362aa, >TCONS_00036339... at 98.07%
+>Cluster 114
+0	268aa, >TCONS_00065102... at 98.51%
+1	203aa, >TCONS_00065125... at 98.03%
+2	374aa, >TCONS_00065101... *
+>Cluster 115
+0	372aa, >TCONS_00003683... *
+1	246aa, >TCONS_00003722... at 100.00%
+>Cluster 116
+0	371aa, >TCONS_00004906... *
+>Cluster 117
+0	371aa, >TCONS_00061938... *
+>Cluster 118
+0	256aa, >TCONS_00005628... at 100.00%
+1	371aa, >TCONS_00005595... *
+>Cluster 119
+0	370aa, >TCONS_00057500... *
+>Cluster 120
+0	370aa, >TCONS_00009855... *
+1	333aa, >TCONS_00009888... at 100.00%
+>Cluster 121
+0	369aa, >TCONS_00056951... *
+1	369aa, >TCONS_00057017... at 100.00%
+>Cluster 122
+0	369aa, >TCONS_00080446... *
+>Cluster 123
+0	184aa, >TCONS_00009142... at 100.00%
+1	369aa, >TCONS_00009113... *
+>Cluster 124
+0	369aa, >TCONS_00043290... *
+1	369aa, >TCONS_00043299... at 100.00%
+>Cluster 125
+0	368aa, >TCONS_00016194... *
+1	228aa, >TCONS_00016206... at 100.00%
+>Cluster 126
+0	368aa, >TCONS_00010662... *
+>Cluster 127
+0	368aa, >TCONS_00009657... *
+>Cluster 128
+0	366aa, >TCONS_00025030... at 100.00%
+1	366aa, >TCONS_00025031... at 100.00%
+2	367aa, >TCONS_00025039... *
+>Cluster 129
+0	366aa, >TCONS_00049227... *
+1	361aa, >TCONS_00049331... at 100.00%
+>Cluster 130
+0	366aa, >TCONS_00041523... *
+>Cluster 131
+0	365aa, >TCONS_00022693... *
+>Cluster 132
+0	365aa, >TCONS_00050078... *
+>Cluster 133
+0	186aa, >TCONS_00025388... at 100.00%
+1	364aa, >TCONS_00025376... *
+>Cluster 134
+0	363aa, >TCONS_00022737... *
+>Cluster 135
+0	362aa, >TCONS_00023510... *
+>Cluster 136
+0	362aa, >TCONS_00012313... *
+>Cluster 137
+0	361aa, >TCONS_00040982... *
+>Cluster 138
+0	354aa, >TCONS_00045334... at 100.00%
+1	359aa, >TCONS_00045306... *
+>Cluster 139
+0	358aa, >TCONS_00054544... *
+1	358aa, >TCONS_00054507... at 100.00%
+>Cluster 140
+0	357aa, >TCONS_00069442... *
+1	357aa, >TCONS_00069392... at 100.00%
+>Cluster 141
+0	356aa, >TCONS_00044005... *
+1	356aa, >TCONS_00043983... at 100.00%
+>Cluster 142
+0	355aa, >TCONS_00070637... *
+>Cluster 143
+0	293aa, >TCONS_00002843... at 100.00%
+1	353aa, >TCONS_00002791... *
+>Cluster 144
+0	352aa, >TCONS_00040103... *
+>Cluster 145
+0	352aa, >TCONS_00041414... *
+>Cluster 146
+0	351aa, >TCONS_00041027... *
+1	351aa, >TCONS_00041029... at 100.00%
+2	351aa, >TCONS_00041026... at 100.00%
+>Cluster 147
+0	351aa, >TCONS_00019367... *
+1	351aa, >TCONS_00019348... at 100.00%
+>Cluster 148
+0	351aa, >TCONS_00049028... *
+>Cluster 149
+0	350aa, >TCONS_00017850... *
+>Cluster 150
+0	350aa, >TCONS_00023526... *
+1	246aa, >TCONS_00023527... at 100.00%
+2	246aa, >TCONS_00023528... at 100.00%
+3	256aa, >TCONS_00023529... at 96.09%
+>Cluster 151
+0	350aa, >TCONS_00049029... *
+1	350aa, >TCONS_00049027... at 100.00%
+>Cluster 152
+0	349aa, >TCONS_00002046... *
+>Cluster 153
+0	162aa, >TCONS_00082255... at 98.77%
+1	348aa, >TCONS_00026171... *
+>Cluster 154
+0	348aa, >TCONS_00004198... *
+>Cluster 155
+0	347aa, >TCONS_00059494... *
+1	347aa, >TCONS_00059565... at 100.00%
+>Cluster 156
+0	347aa, >TCONS_00037421... *
+1	140aa, >TCONS_00037474... at 100.00%
+>Cluster 157
+0	347aa, >TCONS_00058703... *
+>Cluster 158
+0	347aa, >TCONS_00051369... *
+>Cluster 159
+0	347aa, >TCONS_00003276... *
+>Cluster 160
+0	346aa, >TCONS_00066159... *
+1	197aa, >TCONS_00066195... at 100.00%
+>Cluster 161
+0	294aa, >TCONS_00003915... at 95.92%
+1	346aa, >TCONS_00003916... *
+>Cluster 162
+0	346aa, >TCONS_00063335... *
+>Cluster 163
+0	342aa, >TCONS_00051373... *
+>Cluster 164
+0	342aa, >TCONS_00000428... *
+>Cluster 165
+0	341aa, >TCONS_00052443... *
+>Cluster 166
+0	341aa, >TCONS_00034939... *
+1	341aa, >TCONS_00034871... at 100.00%
+2	341aa, >TCONS_00034938... at 100.00%
+>Cluster 167
+0	341aa, >TCONS_00041967... *
+1	306aa, >TCONS_00041979... at 99.35%
+>Cluster 168
+0	333aa, >TCONS_00052428... at 100.00%
+1	341aa, >TCONS_00052460... *
+>Cluster 169
+0	341aa, >TCONS_00038912... *
+>Cluster 170
+0	149aa, >TCONS_00001228... at 100.00%
+1	139aa, >TCONS_00001229... at 100.00%
+2	341aa, >TCONS_00001161... *
+>Cluster 171
+0	259aa, >TCONS_00009121... at 100.00%
+1	341aa, >TCONS_00009090... *
+>Cluster 172
+0	341aa, >TCONS_00059344... *
+>Cluster 173
+0	340aa, >TCONS_00019524... *
+>Cluster 174
+0	340aa, >TCONS_00025770... *
+>Cluster 175
+0	340aa, >TCONS_00078466... *
+>Cluster 176
+0	339aa, >TCONS_00013602... *
+1	248aa, >TCONS_00013566... at 95.16%
+>Cluster 177
+0	339aa, >TCONS_00057347... *
+1	232aa, >TCONS_00057377... at 100.00%
+>Cluster 178
+0	315aa, >TCONS_00022263... at 100.00%
+1	152aa, >TCONS_00022273... at 100.00%
+2	339aa, >TCONS_00022264... *
+>Cluster 179
+0	339aa, >TCONS_00002523... *
+>Cluster 180
+0	338aa, >TCONS_00009671... *
+1	338aa, >TCONS_00009694... at 100.00%
+>Cluster 181
+0	337aa, >TCONS_00000920... *
+>Cluster 182
+0	337aa, >TCONS_00073037... *
+1	198aa, >TCONS_00073072... at 100.00%
+>Cluster 183
+0	337aa, >TCONS_00049068... *
+>Cluster 184
+0	337aa, >TCONS_00018423... *
+>Cluster 185
+0	336aa, >TCONS_00057489... *
+1	140aa, >TCONS_00057523... at 100.00%
+>Cluster 186
+0	336aa, >TCONS_00068559... *
+>Cluster 187
+0	335aa, >TCONS_00052150... *
+>Cluster 188
+0	184aa, >TCONS_00076094... at 98.37%
+1	335aa, >TCONS_00025047... *
+>Cluster 189
+0	335aa, >TCONS_00064530... *
+1	334aa, >TCONS_00064521... at 100.00%
+>Cluster 190
+0	334aa, >TCONS_00021955... *
+>Cluster 191
+0	334aa, >TCONS_00025594... *
+>Cluster 192
+0	333aa, >TCONS_00034908... *
+>Cluster 193
+0	333aa, >TCONS_00039239... *
+>Cluster 194
+0	332aa, >TCONS_00024150... *
+>Cluster 195
+0	331aa, >TCONS_00076230... *
+>Cluster 196
+0	271aa, >TCONS_00034967... at 97.79%
+1	331aa, >TCONS_00034903... *
+>Cluster 197
+0	330aa, >TCONS_00052210... *
+>Cluster 198
+0	329aa, >TCONS_00069577... *
+1	309aa, >TCONS_00069537... at 100.00%
+>Cluster 199
+0	329aa, >TCONS_00009239... *
+>Cluster 200
+0	329aa, >TCONS_00012043... *
+>Cluster 201
+0	327aa, >TCONS_00054553... *
+1	327aa, >TCONS_00054530... at 100.00%
+2	327aa, >TCONS_00054529... at 100.00%
+>Cluster 202
+0	327aa, >TCONS_00019632... *
+>Cluster 203
+0	326aa, >TCONS_00034349... *
+>Cluster 204
+0	325aa, >TCONS_00063428... *
+1	311aa, >TCONS_00063490... at 100.00%
+>Cluster 205
+0	324aa, >TCONS_00007133... *
+>Cluster 206
+0	324aa, >TCONS_00051203... *
+>Cluster 207
+0	324aa, >TCONS_00024471... *
+>Cluster 208
+0	321aa, >TCONS_00067893... *
+1	307aa, >TCONS_00067943... at 100.00%
+>Cluster 209
+0	321aa, >TCONS_00010563... *
+>Cluster 210
+0	321aa, >TCONS_00068457... *
+>Cluster 211
+0	320aa, >TCONS_00075543... *
+>Cluster 212
+0	320aa, >TCONS_00078896... *
+>Cluster 213
+0	320aa, >TCONS_00035648... *
+1	320aa, >TCONS_00035596... at 100.00%
+>Cluster 214
+0	319aa, >TCONS_00064490... *
+1	289aa, >TCONS_00064526... at 100.00%
+>Cluster 215
+0	319aa, >TCONS_00021807... *
+>Cluster 216
+0	318aa, >TCONS_00017150... *
+>Cluster 217
+0	214aa, >TCONS_00036373... at 100.00%
+1	318aa, >TCONS_00036359... *
+>Cluster 218
+0	318aa, >TCONS_00041686... *
+>Cluster 219
+0	316aa, >TCONS_00075484... *
+>Cluster 220
+0	316aa, >TCONS_00079424... *
+>Cluster 221
+0	316aa, >TCONS_00015097... *
+1	316aa, >TCONS_00015079... at 100.00%
+2	301aa, >TCONS_00015078... at 97.67%
+>Cluster 222
+0	315aa, >TCONS_00028566... *
+>Cluster 223
+0	315aa, >TCONS_00023433... *
+>Cluster 224
+0	228aa, >TCONS_00036141... at 100.00%
+1	313aa, >TCONS_00036117... *
+>Cluster 225
+0	312aa, >TCONS_00071751... *
+>Cluster 226
+0	312aa, >TCONS_00028837... *
+>Cluster 227
+0	156aa, >TCONS_00003041... at 100.00%
+1	312aa, >TCONS_00002985... *
+>Cluster 228
+0	311aa, >TCONS_00008333... *
+>Cluster 229
+0	202aa, >TCONS_00017160... at 100.00%
+1	311aa, >TCONS_00017149... *
+>Cluster 230
+0	310aa, >TCONS_00007604... *
+>Cluster 231
+0	310aa, >TCONS_00038245... *
+>Cluster 232
+0	309aa, >TCONS_00015731... *
+>Cluster 233
+0	309aa, >TCONS_00066232... *
+>Cluster 234
+0	308aa, >TCONS_00043759... *
+1	200aa, >TCONS_00043813... at 100.00%
+>Cluster 235
+0	308aa, >TCONS_00052214... *
+>Cluster 236
+0	308aa, >TCONS_00002654... *
+>Cluster 237
+0	130aa, >TCONS_00001055... at 100.00%
+1	308aa, >TCONS_00000937... *
+>Cluster 238
+0	307aa, >TCONS_00070639... *
+>Cluster 239
+0	306aa, >TCONS_00019290... *
+>Cluster 240
+0	306aa, >TCONS_00071738... *
+>Cluster 241
+0	304aa, >TCONS_00071915... *
+>Cluster 242
+0	304aa, >TCONS_00081145... *
+>Cluster 243
+0	303aa, >TCONS_00074312... *
+>Cluster 244
+0	302aa, >TCONS_00058970... *
+>Cluster 245
+0	301aa, >TCONS_00064561... *
+1	120aa, >TCONS_00064563... at 99.17%
+>Cluster 246
+0	300aa, >TCONS_00050098... *
+1	300aa, >TCONS_00050075... at 100.00%
+>Cluster 247
+0	300aa, >TCONS_00019030... *
+>Cluster 248
+0	300aa, >TCONS_00006194... *
+>Cluster 249
+0	299aa, >TCONS_00080572... *
+>Cluster 250
+0	296aa, >TCONS_00016374... *
+>Cluster 251
+0	295aa, >TCONS_00009806... *
+>Cluster 252
+0	294aa, >TCONS_00076311... *
+>Cluster 253
+0	204aa, >TCONS_00022900... at 100.00%
+1	294aa, >TCONS_00022896... *
+>Cluster 254
+0	293aa, >TCONS_00047851... *
+>Cluster 255
+0	292aa, >TCONS_00034671... *
+>Cluster 256
+0	292aa, >TCONS_00020618... *
+>Cluster 257
+0	291aa, >TCONS_00031206... *
+>Cluster 258
+0	288aa, >TCONS_00034651... *
+>Cluster 259
+0	287aa, >TCONS_00028836... *
+1	254aa, >TCONS_00028839... at 96.06%
+>Cluster 260
+0	274aa, >TCONS_00014735... at 100.00%
+1	287aa, >TCONS_00014765... *
+>Cluster 261
+0	285aa, >TCONS_00046499... *
+>Cluster 262
+0	285aa, >TCONS_00053101... *
+>Cluster 263
+0	285aa, >TCONS_00039988... *
+>Cluster 264
+0	283aa, >TCONS_00068010... *
+>Cluster 265
+0	283aa, >TCONS_00075539... *
+>Cluster 266
+0	282aa, >TCONS_00051617... *
+>Cluster 267
+0	282aa, >TCONS_00000111... *
+>Cluster 268
+0	280aa, >TCONS_00058452... *
+>Cluster 269
+0	278aa, >TCONS_00038552... *
+>Cluster 270
+0	257aa, >TCONS_00038777... at 100.00%
+1	278aa, >TCONS_00038749... *
+>Cluster 271
+0	278aa, >TCONS_00006676... *
+>Cluster 272
+0	277aa, >TCONS_00002656... *
+>Cluster 273
+0	276aa, >TCONS_00079999... *
+>Cluster 274
+0	273aa, >TCONS_00007735... *
+>Cluster 275
+0	272aa, >TCONS_00086006... *
+>Cluster 276
+0	272aa, >TCONS_00034909... *
+>Cluster 277
+0	270aa, >TCONS_00014074... *
+>Cluster 278
+0	270aa, >TCONS_00055342... *
+>Cluster 279
+0	270aa, >TCONS_00003686... *
+>Cluster 280
+0	267aa, >TCONS_00074648... *
+>Cluster 281
+0	266aa, >TCONS_00025596... *
+>Cluster 282
+0	264aa, >TCONS_00035911... *
+>Cluster 283
+0	263aa, >TCONS_00036119... *
+>Cluster 284
+0	262aa, >TCONS_00073774... *
+>Cluster 285
+0	260aa, >TCONS_00060623... *
+>Cluster 286
+0	242aa, >TCONS_00069013... at 100.00%
+1	260aa, >TCONS_00068962... *
+>Cluster 287
+0	259aa, >TCONS_00034131... *
+>Cluster 288
+0	259aa, >TCONS_00011075... *
+>Cluster 289
+0	255aa, >TCONS_00033908... *
+>Cluster 290
+0	254aa, >TCONS_00001626... *
+>Cluster 291
+0	254aa, >TCONS_00048489... *
+>Cluster 292
+0	254aa, >TCONS_00084869... *
+>Cluster 293
+0	253aa, >TCONS_00035587... *
+>Cluster 294
+0	252aa, >TCONS_00021133... *
+>Cluster 295
+0	251aa, >TCONS_00059512... *
+>Cluster 296
+0	246aa, >TCONS_00018692... *
+>Cluster 297
+0	245aa, >TCONS_00038670... *
+>Cluster 298
+0	245aa, >TCONS_00008146... *
+>Cluster 299
+0	244aa, >TCONS_00005784... *
+>Cluster 300
+0	244aa, >TCONS_00036033... *
+>Cluster 301
+0	241aa, >TCONS_00033955... *
+>Cluster 302
+0	241aa, >TCONS_00005200... *
+1	121aa, >TCONS_00005240... at 100.00%
+>Cluster 303
+0	240aa, >TCONS_00066781... *
+>Cluster 304
+0	239aa, >TCONS_00016665... *
+>Cluster 305
+0	238aa, >TCONS_00014372... *
+>Cluster 306
+0	234aa, >TCONS_00003145... *
+>Cluster 307
+0	232aa, >TCONS_00073658... *
+>Cluster 308
+0	232aa, >TCONS_00069198... *
+>Cluster 309
+0	227aa, >TCONS_00034581... *
+>Cluster 310
+0	226aa, >TCONS_00044060... *
+>Cluster 311
+0	225aa, >TCONS_00051370... *
+>Cluster 312
+0	223aa, >TCONS_00086178... *
+>Cluster 313
+0	223aa, >TCONS_00058719... *
+>Cluster 314
+0	222aa, >TCONS_00061392... *
+1	139aa, >TCONS_00061402... at 100.00%
+>Cluster 315
+0	222aa, >TCONS_00070808... *
+>Cluster 316
+0	222aa, >TCONS_00070180... *
+>Cluster 317
+0	220aa, >TCONS_00060262... *
+>Cluster 318
+0	219aa, >TCONS_00046547... *
+>Cluster 319
+0	213aa, >TCONS_00034736... *
+>Cluster 320
+0	209aa, >TCONS_00036417... *
+>Cluster 321
+0	208aa, >TCONS_00034956... *
+>Cluster 322
+0	208aa, >TCONS_00075947... *
+>Cluster 323
+0	206aa, >TCONS_00054583... *
+>Cluster 324
+0	203aa, >TCONS_00006058... *
+>Cluster 325
+0	202aa, >TCONS_00078500... *
+>Cluster 326
+0	197aa, >TCONS_00044997... *
+>Cluster 327
+0	197aa, >TCONS_00014078... *
+>Cluster 328
+0	196aa, >TCONS_00038534... *
+>Cluster 329
+0	195aa, >TCONS_00028535... *
+>Cluster 330
+0	194aa, >TCONS_00048561... *
+>Cluster 331
+0	192aa, >TCONS_00007290... *
+>Cluster 332
+0	189aa, >TCONS_00082536... *
+>Cluster 333
+0	186aa, >TCONS_00040078... *
+>Cluster 334
+0	186aa, >TCONS_00039574... *
+>Cluster 335
+0	184aa, >TCONS_00015095... *
+>Cluster 336
+0	183aa, >TCONS_00003275... *
+>Cluster 337
+0	180aa, >TCONS_00009535... *
+>Cluster 338
+0	180aa, >TCONS_00005303... *
+>Cluster 339
+0	180aa, >TCONS_00017058... *
+>Cluster 340
+0	171aa, >TCONS_00075049... *
+>Cluster 341
+0	170aa, >TCONS_00054785... *
+>Cluster 342
+0	170aa, >TCONS_00073657... *
+>Cluster 343
+0	168aa, >TCONS_00056133... at 100.00%
+1	170aa, >TCONS_00056090... *
+>Cluster 344
+0	169aa, >TCONS_00013911... *
+>Cluster 345
+0	168aa, >TCONS_00050830... *
+>Cluster 346
+0	167aa, >TCONS_00035174... *
+>Cluster 347
+0	166aa, >TCONS_00010789... *
+>Cluster 348
+0	166aa, >TCONS_00036981... *
+>Cluster 349
+0	166aa, >TCONS_00040925... *
+>Cluster 350
+0	165aa, >TCONS_00082293... *
+>Cluster 351
+0	164aa, >TCONS_00012889... *
+>Cluster 352
+0	161aa, >TCONS_00055860... *
+>Cluster 353
+0	160aa, >TCONS_00034137... *
+>Cluster 354
+0	159aa, >TCONS_00075032... *
+>Cluster 355
+0	159aa, >TCONS_00052229... *
+>Cluster 356
+0	158aa, >TCONS_00075949... *
+>Cluster 357
+0	158aa, >TCONS_00043747... *
+>Cluster 358
+0	157aa, >TCONS_00083761... *
+>Cluster 359
+0	156aa, >TCONS_00052736... *
+>Cluster 360
+0	156aa, >TCONS_00072008... *
+>Cluster 361
+0	155aa, >TCONS_00051494... *
+>Cluster 362
+0	152aa, >TCONS_00051424... *
+>Cluster 363
+0	146aa, >TCONS_00041766... *
+>Cluster 364
+0	144aa, >TCONS_00022268... *
+>Cluster 365
+0	140aa, >TCONS_00053728... *
+>Cluster 366
+0	139aa, >TCONS_00079084... *
+>Cluster 367
+0	139aa, >TCONS_00013910... *
+>Cluster 368
+0	129aa, >TCONS_00012535... *
+>Cluster 369
+0	126aa, >TCONS_00082518... *
+>Cluster 370
+0	126aa, >TCONS_00012988... *
+>Cluster 371
+0	122aa, >TCONS_00051757... *
+>Cluster 372
+0	116aa, >TCONS_00055728... *
+>Cluster 373
+0	115aa, >TCONS_00062717... *
+>Cluster 374
+0	112aa, >TCONS_00007215... *
+>Cluster 375
+0	112aa, >TCONS_00018600... *
+>Cluster 376
+0	111aa, >TCONS_00030702... *
