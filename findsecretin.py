@@ -12,9 +12,9 @@ for Line in InFile:
 	#print Line
 	#Line = Line.strip()
 
-	if 'Rhodopsin' in Line:
+	if 'Secretin' in Line:
 		
-		Line = Line + " Class A"
+		Line = Line + " Class B"
 		print (Line)
 
 		#return Line
