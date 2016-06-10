@@ -11,7 +11,8 @@ OutFileName_ClassA = "ClassA_fasta.fas"
 OutFileA = open (OutFileName_ClassA, 'a')
 
 
-
+#Create a Set. Sets accumulate data from a file thanks to the .add function. 
+#You can use it afterwards to match words such as headers with another file, for example 
 def Header_set (file):
 	H_set = set()
 
